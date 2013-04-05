@@ -157,5 +157,5 @@ EventEmitter.prototype.emit = function(type) {
   }
 };
 
-
+exports.EventEmitter = EventEmitter;
 
